@@ -1,5 +1,5 @@
 # Use the following command to regenerate Python modules
-# flatpak-pip-generator --runtime=org.kde.Sdk//6.10 -r requirements.txt --prefer-wheels=pydantic_core,maturin
+# flatpak-pip-generator --runtime=org.kde.Sdk//6.11 -r requirements.txt --prefer-wheels=pydantic_core,maturin,lxml
 
 maturin
 pydantic_core
